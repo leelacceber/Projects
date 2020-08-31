@@ -10,9 +10,12 @@ body {
 }
 
 a {
+  color: #8ab22e;
+}
+a:hover,
+a:focus {
   color: #216100;
 }
-
 
 h1,h2, h3, h4, h5, h6 {
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
