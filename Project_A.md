@@ -3,4 +3,4 @@
 the first project is about blah blah blah.
 
 here is an image
-![](./assets/images/bg.png)
+![](https://github.com/leelacceber/projects/assets/images/bg.png)
