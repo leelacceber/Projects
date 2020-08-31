@@ -3,6 +3,11 @@
 
 @import "{{ site.theme }}";
 
+header {
+    background-color:#216100;
+    color:#e6eee3;
+}
+
 body {
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #152812;
@@ -17,11 +22,12 @@ a:focus {
   color: #216100;
 }
 
+header a, a:hover, a:focus {
+  color: #e6eee3;
+}
+
 h1,h2, h3, h4, h5, h6 {
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
-header {
-    background-color:#216100;
-    color:#e6eee3;
-}
+
