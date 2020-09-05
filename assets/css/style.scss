@@ -4,8 +4,8 @@
 @import "{{ site.theme }}";
 
 header {
-    background-color:#216100;
-    color:#f9fcf2;
+    background-color:#e0eaf3;
+    color:#152812;
 }
 
 body {
@@ -22,11 +22,6 @@ a:focus {
   color: #216100;
 }
 
-header a, 
-header a:hover, 
-header a:focus {
-  color: #f9fcf2;
-}
 
 h1,h2, h3, h4, h5, h6 {
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
