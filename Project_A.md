@@ -109,6 +109,7 @@ We then made a Testing Table:
 After brainstorming for different ideas, we used 2 tools to evaluate our ideas. 
 
 We used an Evaluative matrix to decide the best way to reuse the crop water:
+
 <style type="text/css">
 .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
@@ -199,6 +200,81 @@ We used an Evaluative matrix to decide the best way to reuse the crop water:
     <td class="tg-0pky">4</td>
     <td class="tg-0pky">5</td>
     <td class="tg-0pky">3</td>
+    <td class="tg-0pky">67</td>
+  </tr>
+</tbody>
+</table>
+
+<style type="text/css">
+.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-fymr">Idea</th>
+    <th class="tg-fymr">Performance: Food Safety</th>
+    <th class="tg-fymr">Weight</th>
+    <th class="tg-fymr">Initial Cost</th>
+    <th class="tg-fymr">Weight</th>
+    <th class="tg-fymr">Ease of Use</th>
+    <th class="tg-fymr">Weight</th>
+    <th class="tg-fymr">Performance: Amount of Water Reused</th>
+    <th class="tg-fymr">Weight</th>
+    <th class="tg-fymr">Learning Opportunity</th>
+    <th class="tg-fymr">Weight</th>
+    <th class="tg-fymr">Total</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-fymr">Crop Wash</td>
+    <td class="tg-0pky">3</td>
+    <td class="tg-0pky" rowspan="5">5</td>
+    <td class="tg-0pky">2</td>
+    <td class="tg-0pky" rowspan="5">4</td>
+    <td class="tg-0pky">3</td>
+    <td class="tg-0pky" rowspan="5">3</td>
+    <td class="tg-0pky">5</td>
+    <td class="tg-0pky" rowspan="5">4</td>
+    <td class="tg-0pky">5</td>
+    <td class="tg-0pky" rowspan="5">3</td>
+    <td class="tg-0pky">67</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">Drip Irrigation</td>
+    <td class="tg-0pky">4</td>
+    <td class="tg-0pky">2</td>
+    <td class="tg-0pky">3</td>
+    <td class="tg-0pky">5</td>
+    <td class="tg-0pky">3</td>
+    <td class="tg-0pky">66</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">Furrow Irrigation</td>
+    <td class="tg-0pky">4</td>
+    <td class="tg-0pky">3</td>
+    <td class="tg-0pky">3</td>
+    <td class="tg-0pky">4</td>
+    <td class="tg-0pky">4</td>
+    <td class="tg-0pky">69</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">Rain Garden</td>
+    <td class="tg-0pky">5</td>
+    <td class="tg-0pky">4</td>
+    <td class="tg-0pky">5</td>
+    <td class="tg-0pky">2</td>
+    <td class="tg-0pky">3</td>
+    <td class="tg-0pky">73</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">Hand Wash</td>
+    <td class="tg-0pky">3</td>
+    <td class="tg-0pky">3</td>
+    <td class="tg-0pky">3</td>
+    <td class="tg-0pky">4</td>
+    <td class="tg-0pky">5</td>
     <td class="tg-0pky">67</td>
   </tr>
 </tbody>
