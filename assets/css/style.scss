@@ -5,7 +5,7 @@
 
 header {
     background-color:#216100;
-    color:#e6eee3;
+    color:#f9fcf2;
 }
 
 body {
@@ -22,8 +22,10 @@ a:focus {
   color: #216100;
 }
 
-header a, a:hover, a:focus {
-  color: #e6eee3;
+header a, 
+header a:hover, 
+header a:focus {
+  color: #f9fcf2;
 }
 
 h1,h2, h3, h4, h5, h6 {
