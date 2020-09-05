@@ -11,7 +11,7 @@ Our team's client was a small farm in a nearby city. Initially, the water they u
 
 ## Design Ideas
 
-After brainstorming for different ideas, we used an Evaluative Matrix to decide the best way to reuse the crop water:
+After brainstorming for different ideas, we used an Evaluative Matrix to decide the best way to reuse the crop water. We determined a few criterias for evaluation, then gave scores of 1 to 5 to each idea. Multiplying them with the weights of each criteria, we got a total score for each idea:
 <style type="text/css">
 .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
