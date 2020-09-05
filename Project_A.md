@@ -55,65 +55,65 @@ We then made a Testing Table:
     <td class="tg-0pky">United States Department of Agriculture</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Water turbidity</span></td>
+    <td class="tg-0pky">Water turbidity</td>
     <td class="tg-0pky">Quantitative</td>
     <td class="tg-0pky">Take a sample of the water after the filtration process and test its turbidity</td>
     <td class="tg-0pky">&lt;5</td>
-    <td class="tg-0pky">NTU (nephelometric turbidity unit)</span></td>
+    <td class="tg-0pky">NTU (nephelometric turbidity unit)</td>
     <td class="tg-0pky">WHO</td>
   </tr>
   <tr>
-    <td class="tg-0pky">The proportion of water reused</span></td>
+    <td class="tg-0pky">The proportion of water reused</td>
     <td class="tg-0pky">Quantitative</td>
-    <td class="tg-0pky">Measure the amount of water that is reused and divide it with the amount of water used for crop wash</span></td>
+    <td class="tg-0pky">Measure the amount of water that is reused and divide it with the amount of water used for crop wash</td>
     <td class="tg-0pky">&gt;50</td>
     <td class="tg-0pky">%</td>
-    <td class="tg-0pky">The water to be reused at least once</span></td>
+    <td class="tg-0pky">The water to be reused at least once</td>
   </tr>
   <tr>
     <td class="tg-c3ow" colspan="6">Economics</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Payback period</span></td>
+    <td class="tg-0pky">Payback period</td>
     <td class="tg-0pky">Quantitative</td>
-    <td class="tg-0pky">Calculate the time required for the accumulated money saved due to water saved to cover the cost required to produce and run the system</span></td>
+    <td class="tg-0pky">Calculate the time required for the accumulated money saved due to water saved to cover the cost required to produce and run the system</td>
     <td class="tg-0pky">&lt;2</td>
     <td class="tg-0pky">years</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Typical payback period</span></td>
+    <td class="tg-0pky">Typical payback period</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Fabrication cost</span></td>
+    <td class="tg-0pky">Fabrication cost</td>
     <td class="tg-0pky">Quantitative</td>
-    <td class="tg-0pky">Add up the cost of materials and labor for prototypes and the final product</span></td>
+    <td class="tg-0pky">Add up the cost of materials and labor for prototypes and the final product</td>
     <td class="tg-0pky">&lt;3000</td>
     <td class="tg-0pky">USD</td>
-    <td class="tg-0pky">Amount of grant</span></td>
+    <td class="tg-0pky">Amount of grant</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Operation and maintenance cost</span></td>
+    <td class="tg-0pky">Operation and maintenance cost</td>
     <td class="tg-0pky">Quantitative</td>
-    <td class="tg-0pky">Add up the cost of electricity required and components to be replaced per year</span></td>
+    <td class="tg-0pky">Add up the cost of electricity required and components to be replaced per year</td>
     <td class="tg-0pky">&lt;200</td>
-    <td class="tg-0pky">USD per year</span></td>
+    <td class="tg-0pky">USD per year</td>
     <td class="tg-0pky">Client</td>
   </tr>
   <tr>
     <td class="tg-c3ow" colspan="6">Ergonomics</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Ease of use</span></td>
-    <td class="tg-0pky">Qualitative</span></td>
-    <td class="tg-0pky">Conduct a focus group of farm workers reporting on whether it is easy to use</span></td>
+    <td class="tg-0pky">Ease of use</td>
+    <td class="tg-0pky">Qualitative</td>
+    <td class="tg-0pky">Conduct a focus group of farm workers reporting on whether it is easy to use</td>
     <td class="tg-0pky">&gt;4</td>
-    <td class="tg-0pky">People say it is easy to use on a scale of 1 to 5 (on average)</span></td>
+    <td class="tg-0pky">People say it is easy to use on a scale of 1 to 5 (on average)</td>
     <td class="tg-0pky">Client</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Operation and maintenance</span></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Quantitative</span></td>
-    <td class="tg-0pky">The time required for maintenance (e.g. changing the filter, clearing sediment in settlement tank)</span></td>
+    <td class="tg-0pky">Operation and maintenance</td>
+    <td class="tg-0pky">Quantitative</td>
+    <td class="tg-0pky">The time required for maintenance (e.g. changing the filter, clearing sediment in settlement tank)</td>
     <td class="tg-0pky">&lt;10</td>
-    <td class="tg-0pky"><Minutes per month</span></td>
+    <td class="tg-0pky">Minutes per month</td>
     <td class="tg-0pky">Client</td>
   </tr>
 </tbody>
