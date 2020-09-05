@@ -24,9 +24,6 @@ We then made a Testing Table:
 |Operation and maintenance cost|Quantitative|Add up the cost of electricity required and components to be replaced per year|<200|USD per year|Client|
 
 <style type="text/css">
-.tg  {}
-.tg td{font-family:"Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;}
-.tg th{font-family:"Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;}
 .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
 .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
