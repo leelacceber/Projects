@@ -1,6 +1,6 @@
 # Water Reuse System for Crop Wash Station
 Apr-June 2019 
-{: .text-right}
+{: .alert .alert-info .text-right}
 
 
 During my exchange programme at University of California Davis, I took a course involving **Product Design, Building, Testing**, offered by [UC Davis D-Lab] (https://piet.ucdavis.edu/maindlab). In the course, I, along with 2 team members, designed and constructed a product prototype for a real client. Having gone through a complete protoytping process, I have gained understanding in different steps of a design process, and how to create a succesful product. 
