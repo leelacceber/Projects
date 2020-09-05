@@ -23,7 +23,103 @@ We then made a Testing Table:
 |Fabrication cost|Quantitative|Add up the cost of materials and labor for prototypes and the final product|<3000|USD|Amount of grant|
 |Operation and maintenance cost|Quantitative|Add up the cost of electricity required and components to be replaced per year|<200|USD per year|Client|
 
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-fymr"><span style="font-style:normal;text-decoration:none;color:#000;background-color:transparent">Criteria</span></th>
+    <th class="tg-fymr">Qualitative / Quantitative</th>
+    <th class="tg-fymr">Testing Procedure</th>
+    <th class="tg-fymr">Target Value</th>
+    <th class="tg-fymr">Metric / Functional Unit</th>
+    <th class="tg-fymr">Source</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-c3ow" colspan="6">Performance</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Water coliform level</td>
+    <td class="tg-0pky">Quantitative</td>
+    <td class="tg-0pky">Take a sample of the water after the purification process and test it for E. coli</td>
+    <td class="tg-0pky">0</td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">colony forming units (cfu) per 100 mL</span></td>
+    <td class="tg-0pky">United States Department of Agriculture</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="font-weight:400;text-decoration:none;color:#000;background-color:transparent">Water turbidity</span></td>
+    <td class="tg-0pky">Quantitative</td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Take a sample of the water after the filtration process and test its turbidity</span></td>
+    <td class="tg-0pky">&lt;5</td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">NTU (nephelometric turbidity unit)</span></td>
+    <td class="tg-0pky">WHO</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="font-weight:400;text-decoration:none;color:#000;background-color:transparent">The proportion of water reused</span></td>
+    <td class="tg-0pky">Quantitative</td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Measure the amount of water that is reused and divide it with the amount of water used for crop wash</span></td>
+    <td class="tg-0pky">&gt;50</td>
+    <td class="tg-0pky">%</td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">The water to be reused at least once</span></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow" colspan="6">Economics</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="font-weight:400;text-decoration:none;color:#000;background-color:transparent">Payback period</span></td>
+    <td class="tg-0pky">Quantitative</td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Calculate the time required for the accumulated money saved due to water saved to cover the cost required to produce and run the system</span></td>
+    <td class="tg-0pky">&lt;2</td>
+    <td class="tg-0pky">years</td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Typical payback period</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="font-weight:400;text-decoration:none;color:#000;background-color:transparent">Fabrication cost</span></td>
+    <td class="tg-0pky">Quantitative</td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Add up the cost of materials and labor for prototypes and the final product</span></td>
+    <td class="tg-0pky">&lt;3000</td>
+    <td class="tg-0pky">USD</td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Amount of grant</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="font-weight:400;text-decoration:none;color:#000;background-color:transparent">Operation and maintenance cost</span></td>
+    <td class="tg-0pky">Quantitative</td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Add up the cost of electricity required and components to be replaced per year</span></td>
+    <td class="tg-0pky">&lt;200</td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">USD per year</span></td>
+    <td class="tg-0pky">Client</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow" colspan="6">Ergonomics</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Ease of use</span></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Qualitative</span></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Conduct a focus group of farm workers reporting on whether it is easy to use</span></td>
+    <td class="tg-0pky">&gt;4</td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">People say it is easy to use on a scale of 1 to 5 (on average)</span></td>
+    <td class="tg-0pky">Client</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Operation and maintenance</span></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Quantitative</span></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">The time required for maintenance (e.g. changing the filter, clearing sediment in settlement tank)</span></td>
+    <td class="tg-0pky">&lt;10</td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Minutes per month</span></td>
+    <td class="tg-0pky">Client</td>
+  </tr>
+</tbody>
+</table>
 
 
 
