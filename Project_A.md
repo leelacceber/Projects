@@ -14,9 +14,14 @@ We then made a Testing Table:
 
 |Criteria|Qualitative / Quantitative|Testing Procedure|Target Value|Metric / Functional Unit|Source|
 |-|-|-|-|-|-|
+|Performance|
 |Water coliform level|Quantitative|Take a sample of the water after the purification process and test it for E. coli|0|colony forming units (cfu) per 100 mL|United States Department of Agriculture|
 |Water turbidity|Quantitative|Take a sample of the water after the filtration process and test its turbidity|<5|NTU (nephelometric turbidity unit)|WHO|
 |The proportion of water reused|Quantitative|Measure the amount of water that is reused and divide it with the amount of water used for crop wash|>50|%|The water to be reused at least once|
+|---
+|Payback period|Quantitative|Calculate the time required for the accumulated money saved due to water saved to cover the cost required to produce and run the system|<2|years|Typical payback period|
+|Fabrication cost|Quantitative|Add up the cost of materials and labor for prototypes and the final product|<3000|USD|Amount of grant|
+|Operation and maintenance cost|Quantitative|Add up the cost of electricity required and components to be replaced per year|<200|USD per year|Client|
 
 
 
