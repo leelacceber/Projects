@@ -12,7 +12,7 @@ After we got our client's information, we came up with considerations for our de
 
 We then made a Testing Table:
 
-|Criteria|Qualitative/Quantitative|Testing Procedure|Target Value|Metric / Functional Unit|Source|
+|Criteria|Qualitative / Quantitative|Testing Procedure|Target Value|Metric / Functional Unit|Source|
 |-|-|-|-|-|-|
 |Water coliform level|Quantitative|Take a sample of the water after the purification process and test it for E. coli|0|colony forming units (cfu) per 100 mL|United States Department of Agriculture|
 |Water turbidity|Quantitative|Take a sample of the water after the filtration process and test its turbidity|<5|NTU (nephelometric turbidity unit)|WHO|
