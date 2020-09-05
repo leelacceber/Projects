@@ -14,7 +14,11 @@ body {
     background-color: #f9fcf2;
 }
 
-a, header a, header h1 {
+header a, header h1 {
+  color: #152812;
+}
+
+a {
   color: #8ab22e;
 }
 a:hover,
