@@ -26,8 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 To add an image:
-![](/assets/images/bg.jpg)
-<img src="https://gitlab.com/example/screenshot" width=100%>
+![](/assets/images/bg.jpg){:width="100%"}
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
