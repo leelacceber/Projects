@@ -2,7 +2,7 @@
 Apr-June 2019 
 {: .text-right}
 
-During my exchange programme at University of California Davis, I took a course involving **Product Design, Building, Testing**, offered by [UC Davis D-Lab](https://piet.ucdavis.edu/maindlab). In the course, I, along with 2 team members, designed and constructed a product prototype for a real client. Having gone through a complete protoytping process, I have gained understanding in different steps of a design process, and how to create a succesful product. 
+During my exchange programme at University of California Davis, I took a course involving **Product Design, Building, Testing**, offered by [UC Davis D-Lab](https://piet.ucdavis.edu/maindlab){:target="_blank" rel="noopener"}. In the course, I, along with 2 team members, designed and constructed a product prototype for a real client. Having gone through a complete protoytping process, I have gained understanding in different steps of a design process, and how to create a succesful product. 
 
 ## Our Client
 Our team's client was a small farm in a nearby city. Initially, the water they used for washing crops would just be drain to the soil. They would like to build a water reuse system at their crop wash station, so that the crop wash water can be reused, reducing the amount of water consumption..
@@ -213,7 +213,7 @@ Design #3 focused on a large sedimentation tank, to allow the particles to settl
 ![](/assets/images/crop wash/design 3.png){:width="50%"}
 
 #### Testing of Sedimentation Tank
-We tried to recreate the farm’s crop wash water by adding soil collected from the farm into clear water, until the turbidity reaches the value measured during site visit. The turbidity of the water was then measured over 4 days by a [DIY turbidity tester](https://www.marineecologyfiji.com/wp-content/uploads/2014/07/Turbidity-Tube-making-Instructions.pdf). It was found that 3 days are required for the water to reach 5NTU, the turbidity required before entering sanitization according to the WHO. With this figure in mind, it was concluded that a real-time system may not be viable due to the time required to settle. 
+We tried to recreate the farm’s crop wash water by adding soil collected from the farm into clear water, until the turbidity reaches the value measured during site visit. The turbidity of the water was then measured over 4 days by a [DIY turbidity tester](https://www.marineecologyfiji.com/wp-content/uploads/2014/07/Turbidity-Tube-making-Instructions.pdf){:target="_blank" rel="noopener"}. It was found that 3 days are required for the water to reach 5NTU, the turbidity required before entering sanitization according to the WHO. With this figure in mind, it was concluded that a real-time system may not be viable due to the time required to settle. 
 
 The graph below shows the turbidity of water over 3 days. 
 ![](/assets/images/crop wash/turbidity.png){:width="50%"}
