@@ -193,7 +193,7 @@ The design of the system evolved over the course as ideas were tested and expert
 ### Design 1
 The initial design consisted of capturing the water and passing it through a sediment tank and filter system. This water would then pass through the UV tube, into a storage tank, into a pump, and then back to the system. 
 
-![](/assets/images/crop wash/design 1.png){:width="70%"}
+![](https://leelacceber.github.io/Projects/assets/images/crop wash/design 1.png){:width="70%"}
 
 ### Design 2
 During a meeting our client, we decided to do a real-time reuse system so that the water after UV sanitization would not be contaminated during storage. 
