@@ -4,7 +4,7 @@
 
 [![](/assets/images/crop wash.png)*Water Reuse System for Crop Wash Station*{:width="50%"}](https://leelacceber.github.io/Projects/Coursework/Crop_Wash) 
 
-[![](/assets/images/shirt.png)*Shirt-Folding Robot Arm*{:width="50%"}](https://leelacceber.github.io/Projects/Coursework/Robot_Arm) 
+[![](/assets/images/robot arm.jpg)*Shirt-Folding Robot Arm*{:width="50%"}](https://leelacceber.github.io/Projects/Coursework/Robot_Arm) 
 
 #### Interest Groups:
 
