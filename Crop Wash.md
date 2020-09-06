@@ -208,7 +208,7 @@ During a meeting our client, we decided to do a real-time reuse system so that t
 
 Hoping to achieve a real-time system, the second iteration of the design removed the sedimentation tank as the settling time may be too long to ensure real-time reuse. A water collection tank is inserted after the sink, and a level sensor would trigger the start of the system when there is a certain amount of water. A sediment filter was found online, and thought to remove particles fast enough to allow the farmers immediate use of recycled water. The storage tank was also removed. 
 
-![](/assets/images/crop wash/design 2.png){:width="70%"}
+![](/assets/images/crop wash/design 2.png){:width="70%"}{: .text-right}
 
 #### Testing of Sediment Filter
 (Crop wash water from the student farm was passed through the filter with a #100 mesh. The filter removes larger particles and bugs from the water but did nothing to remove the very small particles. This was concerning as the small particles had a very large influence on turbidity. Rusco provides mesh with smaller holes, which may remove the smaller particles. But they may get clogged up quickly and require frequent changing.)
