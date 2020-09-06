@@ -27,5 +27,5 @@ arduino
 </figure>
 
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/watch?v=pkln_JUA41Y&feature=youtu.be" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/watch?v=pkln_JUA41Y" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
