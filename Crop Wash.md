@@ -199,14 +199,14 @@ The design of the system evolved over the course as ideas were tested and expert
 ### Design 1
 
 The initial design consisted of capturing the water and passing it through a sediment tank and filter system. This water would then pass through the UV tube, into a storage tank, into a pump, and then back to the system. 
-![](/assets/images/crop wash/design 1.png){:width="100%"}
+![](/assets/images/crop wash/design 1.png){:width="70%"}
 
 ### Design 2
 
 During a meeting our client, we decided to do a real-time reuse system so that the water after UV sanitization would not be contaminated during storage. 
 
 Hoping to achieve a real-time system, the second iteration of the design removed the sedimentation tank as the settling time may be too long to ensure real-time reuse. A water collection tank is inserted after the sink, and a level sensor would trigger the start of the system when there is a certain amount of water. A sediment filter was found online, and thought to remove particles fast enough to allow the farmers immediate use of recycled water. The storage tank was also removed. 
-![](/assets/images/crop wash/design 2.png){:width="100%"}
+![](/assets/images/crop wash/design 2.png){:width="80%"}
 
 #### Testing of filter
 
@@ -217,19 +217,19 @@ Hoping to achieve a real-time system, the second iteration of the design removed
 The sediment filter used in Design #2 proved to be ineffective in removing the majority of particulates found in the water. As a result, a professor with expertise in wastewater treatment was consulted for advice on how to properly remove the small particulates. She suggested using sedimentation and maintained that a real-time system was not feasible because sedimentation takes a long time. 
 
 Design #3 focused on a large sedimentation tank, to allow the particles to settle and for the clear water to be collected from the top. The storage tank was added and chlorine would be used to keep stored water from being contaminated. 
-![](/assets/images/crop wash/design 3.png){:width="100%"}
+![](/assets/images/crop wash/design 3.png){:width="50%"}
 
 #### Testing
 sedimentation
 We tried to recreate the farm’s crop wash water by adding soil collected from the farm into clear water, until the turbidity reaches 240NTU. The turbidity of the water was then measured over 4 days by a [DIY turbidity tester](https://www.marineecologyfiji.com/wp-content/uploads/2014/07/Turbidity-Tube-making-Instructions.pdf). It was found that 3 days are required for the water to reach 5NTU, the turbidity required before entering sanitization according to the WHO.
-![](/assets/images/crop wash/turbidity.png){:width="100%"}
+![](/assets/images/crop wash/turbidity.png){:width="60%"}
 
 ### Design 4
 
 The sediment tank prototype constructed for Design #3 proved to take too long for the water to settle to acceptable turbidity. 
 
 Design #4 was changed to include a sand filter in addition to the sediment tank. The idea is to let the water settle for 1 day and then use the sand filter to remove the remainder of the sediment. The pump was moved to before the UV chamber, so we can control the flow rate into the UV chamber. 
-![](/assets/images/crop wash/design 4.png){:width="100%"}
+![](/assets/images/crop wash/design 4.png){:width="70%"}
 
 ### Testing
 sand filter
