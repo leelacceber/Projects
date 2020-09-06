@@ -1,4 +1,4 @@
-# Shirt-folding Robot Arm
+# Shirt-Folding Robot Arm
 September-December 2018 
 {: .text-right}
 
