@@ -8,9 +8,13 @@ header {
     color:#8ab22e;
 }
 
-h1.header, h3.header {
+h1.header {
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #152812;
+}
+
+p.header {
+    font-size: 20px;
 }
 
 body {
