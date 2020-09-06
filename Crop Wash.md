@@ -200,7 +200,7 @@ The design of the system evolved over the course as ideas were tested and expert
 
 The initial design consisted of capturing the water and passing it through a sediment tank and filter system. This water would then pass through the UV tube, into a storage tank, into a pump, and then back to the system. 
 
-![](/assets/images/crop wash/design 1.png){:width="70%" .text-center}
+![](/assets/images/crop wash/design 1.png){:width="70%"}
 
 ### Design 2
 
@@ -208,10 +208,10 @@ During a meeting our client, we decided to do a real-time reuse system so that t
 
 Hoping to achieve a real-time system, the second iteration of the design removed the sedimentation tank as the settling time may be too long to ensure real-time reuse. A water collection tank is inserted after the sink, and a level sensor would trigger the start of the system when there is a certain amount of water. A sediment filter was found online, and thought to remove particles fast enough to allow the farmers immediate use of recycled water. The storage tank was also removed. 
 
-![](/assets/images/crop wash/design 2.png){:width="70%"}{: .text-right}
+![](/assets/images/crop wash/design 2.png){:width="70%"}
 
 #### Testing of Sediment Filter
-(Crop wash water from the student farm was passed through the filter with a #100 mesh. The filter removes larger particles and bugs from the water but did nothing to remove the very small particles. This was concerning as the small particles had a very large influence on turbidity. Rusco provides mesh with smaller holes, which may remove the smaller particles. But they may get clogged up quickly and require frequent changing.)
+Crop wash water from the student farm was passed through the filter with a #100 mesh. We observed that the filter removed larger particles and bugs from the water but not the fine particles. This was concerning as the small particles had a very large influence on turbidity. The manufacturer provides mesh with smaller holes, which may remove the smaller particles. But they may get clogged up quickly and require frequent changing and maintenance.
 
 ### Design 3
 
@@ -222,9 +222,10 @@ Design #3 focused on a large sedimentation tank, to allow the particles to settl
 ![](/assets/images/crop wash/design 3.png){:width="50%"}
 
 #### Testing of Sedimentation Tank
-We tried to recreate the farm’s crop wash water by adding soil collected from the farm into clear water, until the turbidity reaches 240NTU. The turbidity of the water was then measured over 4 days by a [DIY turbidity tester](https://www.marineecologyfiji.com/wp-content/uploads/2014/07/Turbidity-Tube-making-Instructions.pdf). It was found that 3 days are required for the water to reach 5NTU, the turbidity required before entering sanitization according to the WHO.
+We tried to recreate the farm’s crop wash water by adding soil collected from the farm into clear water, until the turbidity reaches the value measured during site visit. The turbidity of the water was then measured over 4 days by a [DIY turbidity tester](https://www.marineecologyfiji.com/wp-content/uploads/2014/07/Turbidity-Tube-making-Instructions.pdf). It was found that 3 days are required for the water to reach 5NTU, the turbidity required before entering sanitization according to the WHO. With this figure in mind, it was concluded that a real-time system may not be viable due to the time required to settle. 
 
-![](/assets/images/crop wash/turbidity.png){:width="60%"}
+The graph below shows the turbidity of water over 3 days. 
+![](/assets/images/crop wash/turbidity.png){:width="50%"}
 
 ### Design 4
 
@@ -236,16 +237,23 @@ Design #4 was changed to include a sand filter in addition to the sediment tank.
 
 #### Testing of Sand Filter
 
+A sand filter was constructed using a 5 gallon bucket with a spigot attached on the bottom. The bucket was filled with gravel (15% by volume) then sand (75% by volume). The remaining 10% of the bucket is left for water collection. 
+
+The sand filter constructed and tested did not work as intended as the turbidity of the water did not significantly decrease after going through it. Pre-washed sand was used but it was found that the sand still contains a large amount of small particles. We tried to wash some of the sand, but a huge amount of water was required, defeating this project’s purpose of saving water. We should look for sand that is designed for water filtration (with absence of very fine particles). The first trial increased the turbidity of the water as the sand was not clean enough to remove contaminants and added its own. 
+
 ## Final Prototype
 
-...
+Due to a time restiction of only 2 months, we were not able to construct a working prototype. The picture below shows a prototype we built that illustrates different parts and sequence of the water reuse system we designed:
 
 ![](/assets/images/crop wash/prototype.png){:width="100%"}
 
-Due to limited time, ... not functional prototype ...
+The used crop wash water would go from left to right in the following sequence
+1. Silver sink: sink for crop wash
+2. White sink: sedimentation tank 
+3. Blue bucket at the bottom: sand filter 
+4. White tube on table: UV chamber 
+5. White bucket on the right: Storage tank
 
+## Reference
 
-
-## 
-
-For more details, https://piet.ucdavis.edu/dlab2018cropwash
+If you want more details, feel free to contact me or refer to our full report accessible [here](https://piet.ucdavis.edu/dlab2018cropwash).
