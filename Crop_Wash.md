@@ -2,15 +2,12 @@
 Apr-June 2019 
 {: .text-right}
 
-
 During my exchange programme at University of California Davis, I took a course involving **Product Design, Building, Testing**, offered by [UC Davis D-Lab](https://piet.ucdavis.edu/maindlab). In the course, I, along with 2 team members, designed and constructed a product prototype for a real client. Having gone through a complete protoytping process, I have gained understanding in different steps of a design process, and how to create a succesful product. 
 
 ## Our Client
-
 Our team's client was a small farm in a nearby city. Initially, the water they used for washing crops would just be drain to the soil. They would like to build a water reuse system at their crop wash station, so that the crop wash water can be reused, reducing the amount of water consumption..
 
 ## Design Ideas
-
 After brainstorming for different ideas, we used an Evaluative Matrix to decide the best way to reuse the crop water. We determined a few criterias for evaluation, then gave scores of 1 to 5 to each idea. Multiplying them with the weights of each criteria, we got a total score for each idea:
 <style type="text/css">
 .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
@@ -90,7 +87,6 @@ After brainstorming for different ideas, we used an Evaluative Matrix to decide 
 Using the Evaluative Matrix, we decided that the best way to mitigate water usage was to deviate the used crop wash water to a rain garden. However, after presenting our result with our client, she preferred to repurpose the water back into the crop wash station instead of for irrigation or rain garden. 
 
 ## Design Criteria
-
 After deciding on our design direction, we came up with considerations for our design, including technical, social, environmental, and financial considerations. 
 
 We then made a Testing Table, to determine how to measure and test our prototype later.:
@@ -188,22 +184,18 @@ We then made a Testing Table, to determine how to measure and test our prototype
 </table>
 
 ## Site Visit
-
 To better understand users' needs, we visited the client's farm on a day of when harvesting and crop wash occur. We documented the crop wash process and the design of crop wash station. Measurements, including the volume of water used in washing, the flow speeds, the turbidity of water after washing, etc. were also taken. Moreover, we consulted the farmers and learnt about other improvements they would like on the existing crop wash station. 
 ![](/assets/images/crop wash/crop wash station.png){:width="100%"}
 
 ## Prototype Designs and Testing
-
 The design of the system evolved over the course as ideas were tested and experts were consulted. 
 
 ### Design 1
-
 The initial design consisted of capturing the water and passing it through a sediment tank and filter system. This water would then pass through the UV tube, into a storage tank, into a pump, and then back to the system. 
 
 ![](/assets/images/crop wash/design 1.png){:width="70%"}
 
 ### Design 2
-
 During a meeting our client, we decided to do a real-time reuse system so that the water after UV sanitization would not be contaminated during storage. 
 
 Hoping to achieve a real-time system, the second iteration of the design removed the sedimentation tank as the settling time may be too long to ensure real-time reuse. A water collection tank is inserted after the sink, and a level sensor would trigger the start of the system when there is a certain amount of water. A sediment filter was found online, and thought to remove particles fast enough to allow the farmers immediate use of recycled water. The storage tank was also removed. 
@@ -214,7 +206,6 @@ Hoping to achieve a real-time system, the second iteration of the design removed
 Crop wash water from the student farm was passed through the filter with a #100 mesh. We observed that the filter removed larger particles and bugs from the water but not the fine particles. This was concerning as the small particles had a very large influence on turbidity. The manufacturer provides mesh with smaller holes, which may remove the smaller particles. But they may get clogged up quickly and require frequent changing and maintenance.
 
 ### Design 3
-
 The sediment filter used in Design #2 proved to be ineffective in removing the majority of particulates found in the water. As a result, a professor with expertise in wastewater treatment was consulted for advice on how to properly remove the small particulates. She suggested using sedimentation and maintained that a real-time system was not feasible because sedimentation takes a long time. 
 
 Design #3 focused on a large sedimentation tank, to allow the particles to settle and for the clear water to be collected from the top. The storage tank was added and chlorine would be used to keep stored water from being contaminated. 
@@ -228,7 +219,6 @@ The graph below shows the turbidity of water over 3 days.
 ![](/assets/images/crop wash/turbidity.png){:width="50%"}
 
 ### Design 4
-
 The sediment tank prototype constructed for Design #3 proved to take too long for the water to settle to acceptable turbidity. 
 
 Design #4 was changed to include a sand filter in addition to the sediment tank. The idea is to let the water settle for 1 day and then use the sand filter to remove the remainder of the sediment. The pump was moved to before the UV chamber, so we can control the flow rate into the UV chamber. 
@@ -236,18 +226,16 @@ Design #4 was changed to include a sand filter in addition to the sediment tank.
 ![](/assets/images/crop wash/design 4.png){:width="70%"}
 
 #### Testing of Sand Filter
-
 A sand filter was constructed using a 5 gallon bucket with a spigot attached on the bottom. The bucket was filled with gravel (15% by volume) then sand (75% by volume). The remaining 10% of the bucket is left for water collection. 
 
 The sand filter constructed and tested did not work as intended as the turbidity of the water did not significantly decrease after going through it. Pre-washed sand was used but it was found that the sand still contains a large amount of small particles. We tried to wash some of the sand, but a huge amount of water was required, defeating this project’s purpose of saving water. We should look for sand that is designed for water filtration (with absence of very fine particles). The first trial increased the turbidity of the water as the sand was not clean enough to remove contaminants and added its own. 
 
 ## Final Prototype
-
 Due to a time restiction of only 2 months, we were not able to construct a working prototype. The picture below shows a prototype we built that illustrates different parts and sequence of the water reuse system we designed:
 
 ![](/assets/images/crop wash/prototype.png){:width="100%"}
 
-The used crop wash water would go from left to right in the following sequence
+The used crop wash water would go from left to right in the following sequence:
 1. Silver sink: sink for crop wash
 2. White sink: sedimentation tank 
 3. Blue bucket at the bottom: sand filter 
@@ -255,5 +243,4 @@ The used crop wash water would go from left to right in the following sequence
 5. White bucket on the right: Storage tank
 
 ## Reference
-
 If you want more details, feel free to contact me or refer to our full report accessible [here](https://piet.ucdavis.edu/dlab2018cropwash).
