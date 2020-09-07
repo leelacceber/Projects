@@ -17,6 +17,7 @@ I, along with 2 team members, decided to use the robot arm to fold clothes. Sinc
 ![](../assets/images/robot arm/end effector 3.png){:width:70%}
 
 ## set up
+![](../assets/images/robot arm/set up.png){:width:70%}
 
 ## trajectory planning
 arduino
