@@ -12,4 +12,4 @@
 
 #### My personal side projects:
 
-[![](/assets/images/table.jpeg){:width="50%"} *Cutomised Table by Upcycling*](https://leelacceber.github.io/Projects/Personal/Table)
+[![](/assets/images/table.jpeg){:width="50%"} *Customised Table by Upcycling*](https://leelacceber.github.io/Projects/Personal/Table)
