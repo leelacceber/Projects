@@ -12,12 +12,12 @@ I, along with 2 team members, decided to use the robot arm to fold clothes. Sinc
 
 ## end effector
 3d print
-![](../assets/images/robot arm/end effector 1.png){:width:70%}
-![](../assets/images/robot arm/end effector 2.png){:width:70%}
-![](../assets/images/robot arm/end effector 3.png){:width:70%}
+![](../assets/images/robot arm/end effector 1.jpg){:width:70%}
+![](../assets/images/robot arm/end effector 2.jpg){:width:70%}
+![](../assets/images/robot arm/end effector 3.jpg){:width:70%}
 
 ## set up
-![](../assets/images/robot arm/set up.png){:width:70%}
+![](../assets/images/robot arm/set up.jpg){:width:50%}
 
 ## trajectory planning
 arduino
