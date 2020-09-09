@@ -6,21 +6,19 @@ September-December 2018
 
 ## Idea
 I, along with 2 team members, planned to use the robot arm to fold clothes. Since the power the robot arm's motor was not enough, we decided to do a demonstration using a mini-shirt.
-![](../assets/images/robot arm/shirt.png){:width:70%}
-
-## calibration
+![](../assets/images/robot arm/shirt.png){:width="70%"}
 
 ## end effector
 3d print
 
-![](../assets/images/robot arm/end effector 1.JPG){:width:70%}
+![](../assets/images/robot arm/end effector 1.JPG){:width="70%"}
 
-![](../assets/images/robot arm/end effector 2.JPG){:width:70%}
+![](../assets/images/robot arm/end effector 2.JPG){:width="70%"}
 
-![](../assets/images/robot arm/end effector 3.JPG){:width:70%}
+![](../assets/images/robot arm/end effector 3.JPG){:width="70%"}
 
 ## set up
-![](../assets/images/robot arm/set up.jpg){:width:70%}
+![](../assets/images/robot arm/set up.jpg){:width="70%"}
 
 ## trajectory planning
 arduino
