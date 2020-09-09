@@ -30,7 +30,7 @@ Below shows the sequence of motion and the corresponding coordinates:
 
 1. The end effector starts at the position to the right of the T-shirt.
 2. The plank slides under the shirt for 5.5cm. 
-3. All the servos are disabled so the end effector drops. The plank and the edge of the platform acts creates a flipping motion.
+3. All the servos are disabled so the end effector drops. The plank and the edge of the platform act as a lever and create a flipping motion.
 4. The end effector is positioned at the bottom of the shirt. 
 5. The end effector slides under the shirt for 7cm.
 6. The end effector moves upward, flipping the shirt. 
