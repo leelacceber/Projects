@@ -244,4 +244,4 @@ The used crop wash water would go from left to right in the following sequence:
 5. White bucket on the right: Storage tank
 
 ## Reference
-If you want more details, feel free to contact me or refer to our full report accessible [here](https://piet.ucdavis.edu/dlab2018cropwash).
+If you want more details, feel free to contact me or refer to our full report accessible [here](https://piet.ucdavis.edu/dlab2018cropwash){:target="_blank" rel="noopener"}.
