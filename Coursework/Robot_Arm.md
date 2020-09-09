@@ -23,7 +23,7 @@ The T-shirt is placed on a platform with height 3cm so that the slightly elevate
 
 ![](../assets/images/robot arm/set up.jpg){:width="50%"}
 
-## trajectory planning
+## Trajectory Control
 We used Arduino to program the robot arm's movement. The path of the end effector was designed in the task space and converted to angle command using inverse kinematics. Cubic trajectory was used to produce a smoother motion.
 
 Below shows the sequence of motion and the corresponding coordinates:
