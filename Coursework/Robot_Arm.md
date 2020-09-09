@@ -6,6 +6,7 @@ September-December 2018
 
 ## Idea
 I, along with 2 team members, planned to use the robot arm to fold clothes. Since the power the robot arm's motor was not enough, we decided to do a demonstration using a mini-shirt.
+
 ![](../assets/images/robot arm/shirt.png){:width="70%"}
 
 ## end effector
@@ -26,5 +27,5 @@ arduino
 ## inverse kinematics400px
 
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/pkln_JUA41Y" frameborder="0" allowfullscreen="true" style="width:100%; height:"400px"> </iframe>
+  <iframe src="https://www.youtube.com/embed/pkln_JUA41Y" frameborder="0" allowfullscreen="true" style="width:100%; height:400px"> </iframe>
 </figure>
