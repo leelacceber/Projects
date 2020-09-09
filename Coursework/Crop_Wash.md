@@ -217,14 +217,14 @@ We tried to recreate the farm’s crop wash water by adding soil collected from 
 
 The graph below shows the turbidity of water over 3 days. 
 
-![](../assets/images/crop wash/turbidity.png){:width="100%" max-width="390px"}
+![](../assets/images/crop wash/turbidity.png){:width="100%" max-width="275px"}
 
 ### Design 4
 The sediment tank prototype constructed for Design #3 proved to take too long for the water to settle to acceptable turbidity. 
 
 Design #4 was changed to include a sand filter in addition to the sediment tank. The idea is to let the water settle for 1 day and then use the sand filter to remove the remainder of the sediment. The pump was moved to before the UV chamber, so we can control the flow rate into the UV chamber. 
 
-![](../assets/images/crop wash/design 4.png){:width="100%" max-width="390px"}
+![](../assets/images/crop wash/design 4.png){:max-width="390px"}
 
 #### Testing of Sand Filter
 A sand filter was constructed using a 5 gallon bucket with a spigot attached on the bottom. The bucket was filled with gravel (15% by volume) then sand (75% by volume). The remaining 10% of the bucket is left for water collection. 
