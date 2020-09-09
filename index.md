@@ -6,7 +6,7 @@
 
 [![](/assets/images/robot arm.jpg){:width="50%"} *Shirt-Folding Robot Arm*](https://leelacceber.github.io/Projects/Coursework/Robot_Arm) 
 
-#### Interest Groups:
+#### Extra-curricular Activities:
 
 [![](/assets/images/smart garden.jpeg){:width="50%"} *Automatic Gardening Kit*](https://leelacceber.github.io/Projects/ECA/Smart_Garden)
 
