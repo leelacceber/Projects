@@ -210,14 +210,14 @@ The sediment filter used in Design #2 proved to be ineffective in removing the m
 
 Design #3 focused on a large sedimentation tank, to allow the particles to settle and for the clear water to be collected from the top. The storage tank was added and chlorine would be used to keep stored water from being contaminated. 
 
-![](../assets/images/crop wash/design 3.png){:width="100%" max-width="275px"}
+![](../assets/images/crop wash/design 3.png){:max-width="100%"}
 
 #### Testing of Sedimentation Tank
 We tried to recreate the farm’s crop wash water by adding soil collected from the farm into clear water, until the turbidity reaches the value measured during site visit. The turbidity of the water was then measured over 4 days by a [DIY turbidity tester](https://www.marineecologyfiji.com/wp-content/uploads/2014/07/Turbidity-Tube-making-Instructions.pdf){:target="_blank" rel="noopener"}. It was found that 3 days are required for the water to reach 5NTU, the turbidity required before entering sanitization according to the WHO. With this figure in mind, it was concluded that a real-time system may not be viable due to the time required to settle. 
 
 The graph below shows the turbidity of water over 3 days. 
 
-![](../assets/images/crop wash/turbidity.png){:width="100%" max-width="275px"}
+![](../assets/images/crop wash/turbidity.png){:width="275px"}
 
 ### Design 4
 The sediment tank prototype constructed for Design #3 proved to take too long for the water to settle to acceptable turbidity. 
