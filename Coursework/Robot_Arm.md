@@ -7,7 +7,7 @@ September-December 2018
 ## Idea
 I, along with 2 team members, planned to use the robot arm to fold clothes. Since the power the robot arm's motor was not enough, we decided to do a demonstration using a mini-shirt.
 
-![](../assets/images/robot arm/shirt.png){:width="100%" max-width=500px}
+![](../assets/images/robot arm/shirt.png){:width="100%" max-width="500px"}
 
 ## end effector
 <!--
@@ -19,11 +19,11 @@ The final design of our end effector makes use of corrugated plastic board as ou
 Considering the compatibility with the robot arm, we have cut our plank into smaller-sized so that it can be supported by the robot arm in a control manner. The smaller size of the plank also reduces air resistance when it flips over, reducing the torque required of the servo and contributing to the precision of the motion. 
 -->
 
-![](../assets/images/robot arm/end effector 1.JPG){:width="100%" max-width=500px}
+![](../assets/images/robot arm/end effector 1.JPG){:width="100%" max-width="500px"}
 
-![](../assets/images/robot arm/end effector 2.JPG){:width="100%" max-width=500px}
+![](../assets/images/robot arm/end effector 2.JPG){:width="100%" max-width="500px"}
 
-![](../assets/images/robot arm/end effector 3.JPG){:width="100%" max-width=500px}
+![](../assets/images/robot arm/end effector 3.JPG){:width="100%" max-width="500px"}
 
 ## trajectory planning
 arduino, calibration, path planning, inverse kinematics, trajectory generation, trial and modification
@@ -57,7 +57,7 @@ Time (s)	x (mm)	  y (mm)	  z (mm)
 The T-shirt is placed on a platform with height 3cm so that the slightly elevated plank can pass through the bottom of the clothes. The platform is about 20cm away from the base of the robot arm.
 -->
 
-![](../assets/images/robot arm/set up.jpg){:width="100%" max-width=300px}
+![](../assets/images/robot arm/set up.jpg){:width="100%" max-width="300px"}
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/pkln_JUA41Y" frameborder="0" allowfullscreen="true" style="width:100%; height:400px"> </iframe>
