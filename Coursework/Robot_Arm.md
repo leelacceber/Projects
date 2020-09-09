@@ -26,5 +26,5 @@ arduino
 ## inverse kinematics
 
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/pkln_JUA41Y" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/embed/pkln_JUA41Y" frameborder="0" allowfullscreen="true" style="width:100%"> </iframe>
 </figure>
