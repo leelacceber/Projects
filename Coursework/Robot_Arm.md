@@ -18,13 +18,13 @@ I, along with 2 team members, planned to use the robot arm to fold clothes. Sinc
 ![](../assets/images/robot arm/end effector 3.JPG){:width="70%"}
 
 ## set up
-![](../assets/images/robot arm/set up.jpg){:width="70%"}
+![](../assets/images/robot arm/set up.jpg){:width="50%"}
 
 ## trajectory planning
 arduino
 
-## inverse kinematics
+## inverse kinematics400px
 
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/pkln_JUA41Y" frameborder="0" allowfullscreen="true" style="width:100%"> </iframe>
+  <iframe src="https://www.youtube.com/embed/pkln_JUA41Y" frameborder="0" allowfullscreen="true" style="width:100%; height:"400px"> </iframe>
 </figure>
