@@ -53,7 +53,7 @@ I also did some final touch-ups. Firstly, I wrapped the legs with some cloth, so
 
 I know, it might not look as neat and beautiful as the ones you buy in stores. But to me, appearance does not matter. What matters is it works and will continue to work. Plus, it fits nicely on my bed. 
 
-![](../assets/images/table/prototype 2 bed.jpeg){:width="70%"}
+![](../assets/images/table/prototype 2 bed.jpeg){:width="50%"}
 
 So that's it, prototype 2 is the one I am using now. I will see if there is any problem with it and give an update if a prototype 3 is required. 
 
