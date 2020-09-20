@@ -25,7 +25,7 @@ I also made an interesting discovery using the 2-legged table. I found that if I
 
 ![](../assets/images/table/prototype 1 tilt.jpeg){:width="70%"}
 
-After putting 2 planks to elevate my laptop, it would be in a position where the monitor is at my eye level, while my hands can still type on the keyboard without my arms in a natural resting state. 
+After putting 2 planks to elevate my laptop, it would be in a position where the monitor is at my eye level, while my hands can still type on the keyboard with my arms in a natural resting state. 
 
 ## Prototype 2
 
@@ -37,7 +37,7 @@ I also decided to combine the other planks to form a table top, instead of using
 
 ![](../assets/images/table/prototype 2 draft.jpeg){:width="70%"}
 
-Since a proper fold-up would reqiure the legs to be non-symmetrical while a stable tilted position would require them to be symmetrical, I decided to make a compromise and have 2 legs foldable and 2 not. 
+Since a proper fold-up would reqiure the legs to be non-symmetrical while a stable tilted position would require 2 legs to be symmetrical, I decided to make a compromise and have 2 legs foldable and 2 not. 
 
 ![](../assets/images/table/prototype 2 legs.jpeg){:width="70%"}
 
