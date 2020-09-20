@@ -13,7 +13,7 @@ And then one day, when I was passing through the rich neighbourhood near my home
 Since I didn't want my table to take up too much space, I decided to make a foldable table. Wanting to do some testings first, I only bought 2 hinges. At first, I didn't want to ruin the beautiful wood board until I am sure of the dimension I want. So I made the first prototype with a plastic panel (another thing I found on the street years ago), attaching it to the foldable frame with strings. 
 
 ![](../assets/images/table/prototype 1 side.jpeg){:width="40%"}
-![](../assets/images/table/prototype 1 bottom.jpeg){:width="40%"}
+![](../assets/images/table/prototype 1 bottom.jpeg){:width="50%"}
 
 I used this 2-legged prototype for about a week, testing out whether the height is suitable for me and whether there is any problem with my design. And there is. 
 
