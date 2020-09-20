@@ -55,7 +55,7 @@ I know, it might not look as neat and beautiful as the ones you buy in stores. B
 
 ![](../assets/images/table/prototype 2 bed.jpeg){:width="70%"}
 
-So that's it, prototype 2 is the one I am using now. I will see if there is any problem with it and update you if a prototype 3 is required. 
+So that's it, prototype 2 is the one I am using now. I will see if there is any problem with it and give an update if a prototype 3 is required. 
 
 
 
